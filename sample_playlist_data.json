@@ -1,0 +1,146 @@
+{
+  "playlists": [
+    {
+      "name": "PL1",
+      "lastModifiedDate": "2018-12-20",
+      "items": [
+        {
+          "track": {
+            "trackName": "Wolves - Acoustic",
+            "artistName": "Matt Johnson",
+            "albumName": "Wolves"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Somebody to Love",
+            "artistName": "Robert John Ardiff",
+            "albumName": "Somebody to Love"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Girl Who Fell To Earth",
+            "artistName": "Gaz Coombes",
+            "albumName": "Matador"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sail",
+            "artistName": "AWOLNATION",
+            "albumName": "Megalithic Symphony Deluxe"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Allistrum's March",
+            "artistName": "The Gloaming",
+            "albumName": "The Gloaming"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mirror Lake",
+            "artistName": "Angus MacRae",
+            "albumName": "Cry Wolf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "King",
+            "artistName": "Lauren Aquilina",
+            "albumName": "Fools"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Una mattina",
+            "artistName": "Ludovico Einaudi",
+            "albumName": "Una mattina"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "When You're Not Here",
+            "artistName": "No Clear Mind",
+            "albumName": "Mets"
+          },
+          "episode": null,
+          "localTrack": null
+        }        
+      ],
+      "description": null,
+      "numberOfFollowers": 1
+    },
+    {
+      "name": "PL2",
+      "lastModifiedDate": "2018-12-25",
+      "items": [
+	  {
+          "track": {
+            "trackName": "Lilitu",
+            "artistName": "Blueneck",
+            "albumName": "The Fallen Host"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Jane Maryam",
+            "artistName": "Evgeny Grinko",
+            "albumName": "Outtakes"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "ripple",
+            "artistName": "Anoice",
+            "albumName": "The Black Rain"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Goodbye",
+            "artistName": "Apparat",
+            "albumName": "The Devil's Walk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Slippery Slope",
+            "artistName": "The Dø",
+            "albumName": "Both Ways Open Jaws"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+		],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+  ]
+}
