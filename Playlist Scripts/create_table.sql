@@ -1,4 +1,4 @@
-CREATE TABLE playlists
+CREATE TABLE playlists_tracks
 (
         playlist_name VARCHAR(200),
         lastModifiedDate DATE,
